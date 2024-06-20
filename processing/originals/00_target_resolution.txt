@@ -1,0 +1,7 @@
+Desktop:
+  min: 5120x3200
+  max: 7680x4800
+
+Phone:
+  min: 2560x3840
+  max: 5120x7680
