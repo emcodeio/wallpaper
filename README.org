@@ -1,0 +1,27 @@
+#+title: Readme
+
+* Wallpapers Repository
+
+Welcome to the Wallpapers Repository! This repository contains a collection of high-quality wallpapers for both desktop and phone devices.
+
+** Directory Structure
+The repository is organized as follows:
+
+#+BEGIN_SRC sh
+wallpapers
+├── desktop
+│  ├── nsfw
+│  ├── safe
+│  └── .DS_Store
+└── processing
+   ├── error
+   ├── originals
+   ├── to_process
+   ├── to_rename
+   ├── to_sort_desktop
+   └── to_sort_phone
+#+END_SRC
+
+- **desktop**: Contains wallpapers designed for desktop screens.
+  - **nsfw**: Wallpapers that are not safe for work.
+  - **safe**: Wallpapers that are safe for work.
